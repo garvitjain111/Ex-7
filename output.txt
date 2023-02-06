@@ -1,0 +1,2 @@
+garvitjain@Garvits-MacBook-Air Exercise-7 % git reset --hard HEAD~1
+HEAD is now at 9d24756 second commit
